@@ -1,0 +1,9 @@
+Origin: Pocketslate's Repo
+Label: Pocketslate
+Suite: stable
+Version: 1.0
+Codename: Bilal
+Architecture: iphoneos-arm
+Components: main
+Description:  Tweaks
+MD5Sum:
