@@ -1,9 +1,11 @@
-Origin: Pocketslate's Repo
+Origin: Pocketslate's Repo 
 Label: Pocketslate
 Suite: stable
 Version: 1.0
-Codename: Bilal
+Codename: Pocketslate
 Architecture: iphoneos-arm
 Components: main
-Description:  Tweaks
+Description: Pocketslate's Tweaks
 MD5Sum:
+ 5f06e4035ddaf40626c4d60a3cf94d41 22576 Packages
+ 1accba8db9feb8779047b36befe1ec10 4288 Packages.bz2
